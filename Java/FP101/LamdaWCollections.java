@@ -9,6 +9,6 @@ public class LamdaWCollections {
         }
         /* functional way to do so*/
         names.forEach(name-> System.out.println(name)); /* using lambda */
-        names.forEach(System.out::println); /* method reference */
+        names.forEach(System.out::println); /* via method reference  */
     }
 }
