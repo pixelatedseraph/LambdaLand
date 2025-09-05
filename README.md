@@ -10,7 +10,7 @@
 - **Optionals**: Handle nullable values safely without explicit null checks.  
 - **Pure Functions**: Promote predictability and testability.  
 - **Immutability**: All data structures remain unmodified, following FP principles.  
-- **Mini Games & Algorithms**: Demonstrates practical FP applications such as number transformations and functional pipelines.
+- **Mini Games & Algorithms**: Demonstrates practical FP applications such as number transformations and functional pipelines
 
 - 
 
